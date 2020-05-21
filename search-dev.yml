@@ -6,7 +6,7 @@ spring:
   data:
     elasticsearch:
       cluster-name: docker-cluster
-      cluster-nodes: 192.168.64.128:9300
+      cluster-nodes: 192.168.64.128:9301
   rabbitmq:
     virtual-host: /leyou
     username: leyou
